@@ -1,2 +1,2 @@
-# VaseGLTF
-VaseGLTF
+# mggscm
+mggscm GLTF Model
